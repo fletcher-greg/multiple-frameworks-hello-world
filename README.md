@@ -9,3 +9,6 @@ This repo is meant to be an easy way for people to see the differences between H
 - Node
   - Koa
   - Express
+- Go
+  - Go Vanilla
+  - Gin
