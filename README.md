@@ -4,7 +4,7 @@
 
 This repo is meant to be an easy way for people to see the differences between Hello World Server Apps in various languages and Frameworks
 
-#### Current Languages and frameworks on Display
+#### Current Languages and frameworks on display
 
 - Node
   - Koa
